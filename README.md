@@ -1,13 +1,13 @@
-# FlatUI / Сборник элементов интерфейса
-FlatUI / Сборник элементов интерфейса
+# EngCalc / Сборник элементов интерфейса
+Engineering Calculator / Инженерный калькулятор
 
-Сборник сверстанных элементов пользовательского интерфейса, которые могут применятся в других проектах. Разбито на элементы в соответсвии с методологией БЭМ. Слайдеры, выпадающее меню и календарь используют JQuery и библиотеку JQueryUI. Запускаем index.html из папки /public. Остальное используется для сборки.
+Калькулятор написанный на JavaScript. Паттерны MVC, издатель, подписчик.
 
 GitHub Pages:
-https://sergio-ka.github.io/FlatUI/
+https://sergio-ka.github.io/EngCalc/
 
 Клонирование репозитория:
-git clone https://github.com/Sergio-Ka/FlatUI.git
+git clone https://github.com/Sergio-Ka/EngCalc.git
 
 Установка модулей для сборки:
 npm i (или npm install)
