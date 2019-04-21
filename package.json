@@ -28,12 +28,12 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Sergio-Ka/FlatUI.git"
+    "url": "git+https://github.com/Sergio-Ka/EngCalc.git"
   },
   "author": "Sergio Ka.",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/Sergio-Ka/FlatUI/issues"
+    "url": "https://github.com/Sergio-Ka/EngCalc/issues"
   },
-  "homepage": "https://github.com/Sergio-Ka/FlatUI#readme"
+  "homepage": "https://github.com/Sergio-Ka/EngCalc#readme"
 }
