@@ -1,0 +1,13 @@
+include ../standard-button/standard-button.pug
+
+mixin calculator()
+    -let buttons = [1, 2, 3, 4, 5, 6, 7, 8, 9, 0, '.', '/', '*', '-', '+', '='];
+    .calculator
+        .calculator__screen
+            input.calculator__screen-input
+            input.calculator__screen-result(value = "0", disabled)
+        .calculator__buttons
+            -buttons.forEach((item) => {
+                .calculator__button
+                    +standard-button({text:item, color:"green", size:"", effect:"", activeStatus:"inactive"})
+            -});
